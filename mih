@@ -1,0 +1,6 @@
+ fill(red)
+       Text("Lethal");
+       fill(yellow)
+     text("Average")
+ fill(green)
+       text("Good");
