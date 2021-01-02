@@ -1,5 +1,6 @@
 var car,wall;
 var weight;
+var speed;
 
 function setup() {
   createCanvas(1600, 400);
